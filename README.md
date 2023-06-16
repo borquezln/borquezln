@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @borquezln.
 - 👀 I’m interested in backend programming.
-- 🌱 I’m currently learning Python programming and Linux manage.
+- 🌱 I’m currently learning and working with PHP.
 - 📫 I'm <i>borquezln</i> at all of my social networks.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
