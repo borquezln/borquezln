@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @borquezln.
-- 👀 I’m a backend programmer.
-- 🌱 I’m working as an Integration developer with PHP/MySQL and JavaScript/MongoDB systems.
-- 📫 I'm <i>borquezln</i> at all of my social networks.
+👋 Hi, I’m @borquezln  
+💻 Full-stack developer currently working on a MERN project  
 
-<!---
-borquezln/borquezln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Tech stack:  
+  • Currently → JavaScript | React | Node.js | MongoDB  
+  • Experience with → PHP | Laravel | CakePHP | MySQL  
+
+🚀 Sharing my progress as I keep learning and growing in tech  
+📚 Always upskilling & building cool stuff
